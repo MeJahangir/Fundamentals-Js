@@ -33,4 +33,8 @@ function add(x, y) {
 }
 console.log(add (5, 10)); // Return = 15
 
-
+// Subtrection Function 
+function subtract(a,b) {
+    return a - b;
+}
+console.log(subtract(10, 4)); // Return = 6
