@@ -22,3 +22,9 @@ console.log(isAdult && hasPermission); // false
 console.log(isAdult || hasPermission); // true
 console.log(!isAdult); // false
 
+// Ternary Operation
+let age = 20;
+let access = (age >= 18);
+console.log(access); // true 'Granted'
+
+
