@@ -27,4 +27,10 @@ let age = 20;
 let access = (age >= 18);
 console.log(access); // true 'Granted'
 
+// Addition Function 
+function add(x, y) {
+    return x + y;
+}
+console.log(add (5, 10)); // Return = 15
+
 
