@@ -38,3 +38,10 @@ function subtract(a,b) {
     return a - b;
 }
 console.log(subtract(10, 4)); // Return = 6
+
+// Multiplication Function 
+function multiply( x, y ) {
+    return x * y;
+}
+let result = multiply( 3, 7 );
+console.log(result);
