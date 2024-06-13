@@ -95,3 +95,11 @@ function divide(num1, num2) {
 }
 let print = divide(20, 5)
 console.log(print);
+
+// for looping
+
+for (let a = 1; a = 10; a++) {
+    const  = [a];
+    
+}
+console.log(element);
