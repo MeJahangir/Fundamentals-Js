@@ -41,8 +41,8 @@ console.log(divide(20, 5)); //Print: 4
 
 
 
-let a = 10;
-let b = 5;
+// let a = 10;
+// let b = 5;
 
 // Arithmetic Operations 
 console.log(a + b); // 15
@@ -98,8 +98,11 @@ console.log(print);
 
 // for looping
 
-for (let a = 1; a = 10; a++) {
-    const  = [a];
-    
+function printNumbers() {
+    for (let i = 1; i <= 10; i++) {
+        console.log(i);       
+    }
 }
-console.log(element);
+
+printNumbers();
+
