@@ -106,3 +106,10 @@ function printNumbers() {
 
 printNumbers();
 
+const person = {
+    name : 'jahangir',
+     great : function () {
+        console.log(this. person);
+     }
+};
+person.great();
